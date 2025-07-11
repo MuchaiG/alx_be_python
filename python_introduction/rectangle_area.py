@@ -1,4 +1,4 @@
-#Area of a rectangle is equal to length multiplied by width
+#Area of a rectangle is equal to length multiplied by width.
 length = 10 
 width = 5 
 Area = length * width
