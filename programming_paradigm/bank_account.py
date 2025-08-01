@@ -17,6 +17,6 @@ class BankAccount:
             return False
 
     def display_balance(self):
-        print(f"Current account balance: KES {self.account_balance:.2f}")
+        print(f"Current Balance: KES {self.account_balance:.2f}")
 
         withdraw_amt = 0
