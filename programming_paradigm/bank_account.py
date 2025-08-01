@@ -13,7 +13,6 @@ class BankAccount:
             self.account_balance -= amount
             return True
         else:
-            print("withdraw more than you have")
             return False
 
     def display_balance(self):
